@@ -1,48 +1,44 @@
-Hi 👋, I'm Luis Mariño, but call me Lucho
+# 🚀 HI 👋, I'M LUIS MARIÑO (LUCHO)
 
-Software Engineering Apprentice | Full Stack Developer | Linux, Windows & Modern Web Technologies
+### **SOFTWARE ENGINEERING APPRENTICE | FULL STACK DEVELOPER**
+*Linux, Windows & Modern Web Technologies*
 
-🚀 About Me
+---
 
-* Software Analysis and Development (ADSO) apprentice at SENA.
-* Full Stack Developer focused on modern web applications and scalable database systems.
-* Experienced with Django, React, Next.js, TypeScript, Spring Boot, Laravel, CodeIgniter 3, MySQL, and PostgreSQL.
-* Committed to developing robust software solutions in Linux & Windows environments.
-* Currently a developer at the SENA software factory.
+### **🚀 ABOUT ME**
 
-🛠️ Tech Stack
+* **🎓 EDUCATION:** Apprentice in **Software Analysis and Development (ADSO)** at **SENA**.
+* **💻 ROLE:** **Full Stack Developer** focused on modern web applications and scalable database systems.
+* **⚡ EXPERIENCE:** Strong proficiency in **Django, React, Next.js, TypeScript, Spring Boot, Laravel, CodeIgniter 3, MySQL, and PostgreSQL**.
+* **🐧 ENVIRONMENT:** Committed to developing robust software solutions in **Linux & Windows** environments.
+* **🏭 CURRENTLY:** Active developer at the **SENA Software Factory**.
 
-🎨 Frontend
+---
 
-* React, Next.js, TypeScript, Tailwind CSS
+### **🛠️ TECH STACK**
 
-⚙️ Backend
+* 🎨 **FRONTEND:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `HTML5` • `JavaScript`
+* ⚙️ **BACKEND:** `Django` • `Python` • `Spring Boot` • `Java` • `Laravel` • `PHP` • `CodeIgniter3`
+* 🗄️ **DATABASES:** `MySQL` • `PostgreSQL`
+* 🧰 **TOOLS, IDES & TECH:** `Linux` • `Windows` • `pnpm` • `Git` • `GitHub` • `IntelliJ IDEA` • `VS Code` • `NetBeans` • `AntiGravity` • `Claude Code` • `Open Code`
 
-* Django, Python, Spring Boot, Java, Laravel, PHP
+---
 
-🗄️ Database
+### **📌 FEATURED PROJECTS**
 
-* MySQL, PostGreSQL
-
-🧰 Tools, IDEs & Technologies
-
-* Linux, Windows, pnpm, Git, GitHub, IntelliJ IDEA, VSC, NETBEANS, AntiGravity, Claude Code, Open Code
-
-📌 Featured Projects
-
-❄️ **ColdChain Sentinel**
+❄️ **COLDCHAIN ​​SENTINEL**
 * Software project focused on agile documentation, user stories, IoT telemetry, and SLA tracking.
 
-🏛️ **Matriz Regional SENA**
-* Frontend development for regional institutional program prioritization matrices using Next.js and Tailwind CSS.
+🏛️ **MATRIZ REGIONAL SENA**
+* Frontend development for regional institutional program prioritization matrices using Next.js and Tailwind CSS. 🚀 **LMACK**
+* A management system developed to optimize the control and administration of training environments at SENA, enabling the management of attendance, logs, incidents, and resources. Its goal is to centralize information and facilitate the monitoring of spaces and activities within the institution.
 
-🚀 **LMACK**
-* Sistema de gestión desarrollado para optimizar el control y administración de ambientes de formación en el SENA, permitiendo gestionar asistencia, minutas, incidentes y recursos. Su objetivo es centralizar la información y facilitar el seguimiento de los espacios y actividades dentro de la institución.
+💻 **SICESOFT**
+* A technology platform designed to optimize, automate, and streamline access control for the student community regarding school meal services (breakfast and lunch). The solution aims to transform operational processes in institutional dining halls, ensuring efficient workflows during peak hours and promoting equitable access to adequate, well-balanced nutrition for all students.
 
-💻 **Sicesoft**
-Plataforma tecnológica diseñada para optimizar, automatizar y agilizar el control de acceso de la comunidad estudiantil a los servicios de alimentación escolar (desayunos y almuerzos). La solución busca transformar los procesos operativos en los comedores institucionales, garantizando flujos eficientes en horarios de alta afluencia y promoviendo el acceso equitativo a una nutrición adecuada y completa para todos los estudiantes.
+---
 
-🌎 Connect With Me
+### **🌎 CONNECT WITH ME**
 
-* 🐙 GitHub: [Luchoj06](https://github.com/Luchoj06)
-* 🚀 Always learning, building, and exploring new technologies.
+* 🐙 **GITHUB:** [Luchoj06](https://github.com/Luchoj06)
+* 🚀 *Always learning, building, and exploring new technologies.*
