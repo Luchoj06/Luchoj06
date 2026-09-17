@@ -30,7 +30,9 @@
 * Software project focused on agile documentation, user stories, IoT telemetry, and SLA tracking.
 
 🏛️ **MATRIZ REGIONAL SENA**
-* Frontend development for regional institutional program prioritization matrices using Next.js and Tailwind CSS. 🚀 **LMACK**
+* Frontend development for regional institutional program prioritization matrices using Next.js and Tailwind CSS. 🚀
+
+**LMACK**
 * A management system developed to optimize the control and administration of training environments at SENA, enabling the management of attendance, logs, incidents, and resources. Its goal is to centralize information and facilitate the monitoring of spaces and activities within the institution.
 
 💻 **SICESOFT**
