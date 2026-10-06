@@ -1,46 +1,51 @@
-# 🚀 HI 👋, I'M LUIS MARIÑO (LUCHO)
+#  ¡HOLA , SOY LUIS MARIÑO (LUCHO)!
 
-### **SOFTWARE ENGINEERING APPRENTICE | FULL STACK DEVELOPER**
-*Linux, Windows & Modern Web Technologies*
+### **APRENDIZ DE INGENIERÍA DE SOFTWARE | DESARROLLADOR FULL STACK**
 
----
-
-### **🚀 ABOUT ME**
-
-* **🎓 EDUCATION:** Apprentice in **Software Analysis and Development (ADSO)** at **SENA**.
-* **💻 ROLE:** **Full Stack Developer** focused on modern web applications and scalable database systems.
-* **⚡ EXPERIENCE:** Strong proficiency in **Django, React, Next.js, TypeScript, Spring Boot, Laravel, CodeIgniter 3, MySQL, and PostgreSQL**.
-* **🐧 ENVIRONMENT:** Committed to developing robust software solutions in **Linux & Windows** environments.
-* **🏭 CURRENTLY:** Active developer at the **SENA Software Factory**.
+*Linux, Windows y Tecnologías Web Modernas*
 
 ---
 
-### **🛠️ TECH STACK**
+### **🚀 SOBRE MÍ**
+
+* **🎓 EDUCACIÓN:** Aprendiz en **Análisis y Desarrollo de Software (ADSO)** en el **SENA**.
+* **💻 ROL:** **Desarrollador Full Stack** enfocado en aplicaciones web modernas y sistemas de bases de datos escalables.
+* **⚡ EXPERIENCIA:** Sólida competencia en **Django, React, Next.js, TypeScript, Spring Boot, Laravel, CodeIgniter 3, MySQL y PostgreSQL**.
+* **🐧 ENTORNO:** Comprometido con el desarrollo de soluciones de software robustas en entornos **Linux y Windows**.
+* **🏭 ACTUALMENTE:** Desarrollador activo en la **Fábrica de Software del SENA**.
+
+---
+
+### **🛠️ STACK TECNOLÓGICO**
 
 * 🎨 **FRONTEND:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `HTML5` • `JavaScript`
 * ⚙️ **BACKEND:** `Django` • `Python` • `Spring Boot` • `Java` • `Laravel` • `PHP` • `CodeIgniter3`
-* 🗄️ **DATABASES:** `MySQL` • `PostgreSQL`
-* 🧰 **TOOLS, IDES & TECH:** `Linux` • `Windows` • `pnpm` • `Git` • `GitHub` • `IntelliJ IDEA` • `VS Code` • `NetBeans` • `AntiGravity` • `Claude Code` • `Open Code`
+* 🗄️ **BASES DE DATOS:** `MySQL` • `PostgreSQL`
+* 🧰 **HERRAMIENTAS, IDEs Y TECNOLOGÍAS:** `Linux` • `Windows` • `pnpm` • `Git` • `GitHub` • `IntelliJ IDEA` • `VS Code` • `NetBeans` • `AntiGravity` • `Claude Code` • `Open Code`
 
 ---
 
-### **📌 FEATURED PROJECTS**
+### **📌 PROYECTOS DESTACADOS**
 
-❄️ **COLDCHAIN ​​SENTINEL**
-* Software project focused on agile documentation, user stories, IoT telemetry, and SLA tracking.
+❄️ **COLDCHAIN SENTINEL**
 
-🏛️ **MATRIZ REGIONAL SENA**
-* Frontend development for regional institutional program prioritization matrices using Next.js and Tailwind CSS. 🚀
+* Proyecto de software enfocado en documentación ágil, historias de usuario, telemetría IoT y seguimiento de SLAs.
+
+❄️ **SISTEMA DE GESTIÓN LOGÍSTICA** *(Reemplazo de la Matriz)*
+
+* Plataforma diseñada para la optimización y el seguimiento de operaciones logísticas, control de inventarios y trazabilidad de procesos en tiempo real. 🚀
 
 **LMACK**
-* A management system developed to optimize the control and administration of training environments at SENA, enabling the management of attendance, logs, incidents, and resources. Its goal is to centralize information and facilitate the monitoring of spaces and activities within the institution.
+
+* Sistema de gestión desarrollado para optimizar el control y la administración de los ambientes de formación en el SENA, permitiendo la gestión de asistencias, registros, incidencias y recursos. Su objetivo es centralizar la información y facilitar el monitoreo de espacios y actividades dentro de la institución.
 
 💻 **SICESOFT**
-* A technology platform designed to optimize, automate, and streamline access control for the student community regarding school meal services (breakfast and lunch). The solution aims to transform operational processes in institutional dining halls, ensuring efficient workflows during peak hours and promoting equitable access to adequate, well-balanced nutrition for all students.
+
+* Plataforma tecnológica diseñada para optimizar, automatizar y agilizar el control de acceso de la comunidad estudiantil al servicio de alimentación institucional (desayunos y almuerzos). La solución busca transformar los procesos operativos en los comedores institucionales, garantizando flujos de trabajo eficientes durante las horas pico y promoviendo el acceso equitativo a una nutrición adecuada y equilibrada para todos los estudiantes.
 
 ---
 
-### **🌎 CONNECT WITH ME**
+### **🌎 CONÉCTATE CONMIGO**
 
 * 🐙 **GITHUB:** [Luchoj06](https://github.com/Luchoj06)
-* 🚀 *Always learning, building, and exploring new technologies.*
+* 🚀 *Siempre aprendiendo, construyendo y explorando nuevas tecnologías.*
