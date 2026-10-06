@@ -1,4 +1,4 @@
-#  ¡HOLA , SOY LUIS MARIÑO (LUCHO)!
+# 🚀 ¡HOLA 👋, SOY LUIS MARIÑO (LUCHO)!
 
 ### **APRENDIZ DE INGENIERÍA DE SOFTWARE | DESARROLLADOR FULL STACK**
 
@@ -31,7 +31,7 @@
 
 * Proyecto de software enfocado en documentación ágil, historias de usuario, telemetría IoT y seguimiento de SLAs.
 
-❄️ **SISTEMA DE GESTIÓN LOGÍSTICA** *(Reemplazo de la Matriz)*
+❄️ **SISTEMA DE GESTIÓN LOGÍSTICA**
 
 * Plataforma diseñada para la optimización y el seguimiento de operaciones logísticas, control de inventarios y trazabilidad de procesos en tiempo real. 🚀
 
@@ -48,4 +48,5 @@
 ### **🌎 CONÉCTATE CONMIGO**
 
 * 🐙 **GITHUB:** [Luchoj06](https://github.com/Luchoj06)
+* 💼 **LINKEDIN:** [Luis Mariño](https://www.google.com/search?q=https://www.linkedin.com/in/luis-mari%C3%B1o-481894441)
 * 🚀 *Siempre aprendiendo, construyendo y explorando nuevas tecnologías.*
